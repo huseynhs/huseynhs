@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @huseynhs
 - 👀 I’m interested in Coding
-- 👨‍💻 I am looking for a Full Stack Developer job
+- 👨‍💻 I am looking for a Full Stack Developer
 - 🌱 I’m currently learning Software Development (CodeAcademy Baku)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me huseynsh@code.edu.az
