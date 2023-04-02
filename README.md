@@ -14,6 +14,6 @@
 
 <h1>Stats 💻</h1>
 <div align='center'>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=huseynhs&show_icons=true&count_private=true&theme=react&hide_border=true" alt="huseynhs" /></p>
+<a href="https://github-readme-stats.vercel.app/api?username=huseynhs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=huseynhs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=huseynhs&label=Profile%20views&color=0e75b6&style=flat" alt="huseynhs" /> </p>
 </div>
